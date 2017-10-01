@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8"
+    <link href="CSS of Shivanis Website" rel="stylesheet" type="text/css">
+  </head>
+  <body>
+    <h1>Shivanis Website </h1>
+    <h3>Hi my name is Jiten Patel do you need a service? My name is Jiten Patel </h3>
+    <h3>and unlike all of those dunb people who just can't seem to get the job done </h3>
+    <h3>you have found me and trust me I can get the job done</h3>
+
+    <table style="width:100%">
+      <tr>
+        <th> Day of the week</th>
+        <th> Hours avalable</th>
+
+      </tr>
+      <tr>
+        <td>Sunday</td>
+      </tr>
+      <tr>
+        <td>Monday</td>
+      </tr>
+      <tr>
+        <td>Tueday</td>
+      </tr>
+      <tr>
+        <td>Wenesday</td>
+      </tr>
+      <tr>
+        <td>Thurday</td>
+      </tr>
+      <tr>
+        <td>Friday</td>
+      </tr>
+      <tr>
+        <td>Saturday</td>
+
+      </tr>
+    </table>
+
+
+    </body>
+</html>
