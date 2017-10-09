@@ -1,10 +1,4 @@
 body {
-  background-color: lightblue;
-  h1 {
-    font-family: impact;
-  }
-  h3 {
-    font-family: georgia;
-  }
+	background-color: lightblue;
 
 }
