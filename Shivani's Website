@@ -1,44 +1,64 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta charset="utf-8"
-    <link href="CSS of Shivanis Website" rel="stylesheet" type="text/css">
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="CSS of Shivanis Website"> 
   </head>
   <body>
-    <h1>Shivanis Website </h1>
-    <h3>Hi my name is Shivani Pate an I am currentyddddd looking for a job</h3>
-    <h3>
+    <h1 class="allign">Shivanis Website </h1>
+    <h3 class="allign">Hi my name is Shivani Patel and I am currenty looking for a job</h3>
 
-    <table style="width:100%">
+    <table border "1">
       <tr>
-        <th> Day of the week</th>
-        <th> Hours avalable</th>
-
+        <th>Day of the Week</th>
+        <th>Avalable or Not</th>
+        <th>Hours Available</th>
       </tr>
       <tr>
         <td>Sunday</td>
+        <td>Not Available</td>
+        <td>I will not be working on Sundays<td>
       </tr>
       <tr>
         <td>Monday</td>
+        <td>Available</td>
+        <td><td>
       </tr>
       <tr>
         <td>Tueday</td>
+        <td>Available</td>
+        <td><td>
       </tr>
       <tr>
         <td>Wenesday</td>
+        <td>Available</td>
+        <td><td>
       </tr>
       <tr>
         <td>Thurday</td>
+        <td>Available</td>
+        <td><td>
       </tr>
       <tr>
         <td>Friday</td>
+        <td>Available</td>
+        <td><td>
       </tr>
       <tr>
         <td>Saturday</td>
+        <td>Not Available</td>
+        <td>I will not be working on Saturday<td>
 
       </tr>
+
+
+      <h1>My Sceduele</h1>
+
+
+    
     </table>
-
-
-    </body>
+    <h1>Contact Information</h1>
+    <h2>My phone number is: +1(954)651-2752</h2>
+    <h2>My email is:shivupivu_68@yahoo.com</h2>
+  </body>
 </html>

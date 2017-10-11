@@ -1,4 +1,10 @@
 body {
-	background-color: lightblue;
+	background: lightblue;
+	text-align: center;
+	font-family: cursive;
+}
 
+table.table {
+	padding: 4px
+	width:100%;
 }
